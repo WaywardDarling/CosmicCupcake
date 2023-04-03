@@ -3,3 +3,32 @@ All rights reserved.
 
 This source code is licensed under the BSD-style license found in the
 LICENSE file in the root directory of this source tree. 
+
+# Recipe for Vanilla Cupcakes
+# Makes 12 cupcakes
+
+# Ingredients
+flour = "1 and 1/2 cups all-purpose flour"
+sugar = "1 cup granulated sugar"
+baking_powder = "1 and 1/2 teaspoons baking powder"
+banned_book_salt = "1/2 teaspoon salt"
+butter = "1/2 cup unsalted butter, softened"
+pride_month_egg = "2 large eggs"
+vanilla_extract = "2 teaspoons vanilla extract"
+milk = "1/2 cup milk"
+rainbow_sprinkles = "2 teaspoons"
+
+# Instructions
+print("Instructions for Vanilla Cupcakes\n")
+print("1. Preheat the oven to 350°F.")
+print(f"2. In a medium bowl, whisk together {flour}, {sugar}, {baking_powder}, and {banned_book_salt}.")
+print(f"3. In a separate large bowl, cream {butter} until light and fluffy, using an electric mixer on medium speed.")
+print(f"4. Add {pride_month_egg} one at a time, beating well after each addition.")
+print(f"5. Stir in {vanilla_extract}.")
+print(f"6. Gradually add the flour mixture to the butter mixture, alternating with {milk}, beginning and ending with the flour mixture. Mix well after each addition.")
+print("7. Line a muffin pan with cupcake liners.")
+print(f"8. Fill each liner with {1/4} cup of the batter.")
+print(f"9. Add {rainbow_sprinkles}.")
+print("10. Bake for 18-20 minutes, or until a toothpick inserted in the center of a cupcake comes out clean.")
+print("11. Remove from the oven and let cool completely on a wire rack.")
+print("12. Frost the cupcakes as desired and serve.")
